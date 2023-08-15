@@ -2,7 +2,7 @@
 The following project involves Network Analysis and Prediction on the Terrorism Dataset. The focus of the project is to apply various Network Analysis Tools including Centrality Analysis, Degree Distirbutions, Density Analysis and Link Prediction to the Terrorism Dataset. The steps are as follows:
 
 1. **Data Preprocessing and Visaulisation in Gephi**
-    - The raw data collected was very dirty and not in the correct format for visualisations in Gephi.
+    - The raw data collected was very dirty and not in the correct format for visualisations to be conductd using networkx and Gephi.
     - Thus, many preprocessing steps were applied in Python, the code for which has also been attached.
     - Once, data was prepared, it was visualised in Gephi, 2 seperate visualisations were created, one which is on the international terrorism network and one which operates in Afghanistan.
 
